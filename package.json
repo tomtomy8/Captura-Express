@@ -1,0 +1,8 @@
+{
+    "name" : "captura_express",
+    "description" : "Next-gen Captura API",
+    "version" : "0.1.0",
+    "engines": {
+        "node": "0.10.35"
+    }
+}
