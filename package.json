@@ -2,7 +2,16 @@
     "name" : "captura_express",
     "description" : "Next-gen Captura API",
     "version" : "0.1.0",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/tomtomy8/Captura-Express"
+    },
     "engines": {
         "node": "0.10.35"
-    }
+        
+    },
+    "dependencies": {
+        "express": "latest"
+    },
+    "license" : "MIT"
 }
